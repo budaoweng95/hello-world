@@ -1,2 +1,3 @@
 # hello-world
-testing how to use git to manage project!
+Hi all:
+I am mark. Learn Python recently. I want to use git how to manager Python code. 
